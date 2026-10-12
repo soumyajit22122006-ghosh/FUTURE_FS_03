@@ -3,6 +3,9 @@
 
 Clean Cut is a modern and responsive salon website concept designed with a premium dark theme and elegant gold accents. The website showcases salon services, brand information, customer reviews, and location details.
 
+## Live Link
+https://cleancut-s7vh.onrender.com
+
 ## Features
 
 - Responsive design for desktop, tablet, and mobile devices
